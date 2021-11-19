@@ -52,7 +52,7 @@
 1. <span class='kanji-mean'> Tự hào
 
 ## <span class='kanji-title'>威張る&emsp;いばる「UY TRƯƠNG」
-1. <span class='kanji-mean'> Kiêu ngạo 「」
+1. <span class='kanji-mean'> Kiêu ngạo 
 
 ## <span class='kanji-title'>囲む&emsp;かこ・む「VI」
 1. <span class='kanji-mean'> Bao quanh
@@ -61,7 +61,6 @@
 
 ## <span class='kanji-title'>採る&emsp;と・る「」
 ## <span class='kanji-title'> 携わる &emsp; たずさ・わる「」
-##### <span style='color:red; opacity:0.8'> 類語：　従事する
 
 ## <span class='kanji-title'>絞る&emsp;しぼ・る「GIẢO」
 1. <span class='kanji-mean'> Vắt
@@ -84,7 +83,11 @@
 ## <span class='kanji-title'>譲る&emsp;ゆず・る「」
 1. <span class='kanji-mean'>Nhượng lại
 
-
+## <span class='kanji-title'>求める&emsp;もと・める「CẦU」
+1. <span class='kanji-mean'>Mong muốn
+1. <span class='kanji-mean'>Yêu cầu đối phương
+1. <span class='kanji-mean'>Tìm kiếm để có được
+1. <span class='kanji-mean'>Mua
 
 
 
