@@ -87,7 +87,7 @@ Dựa vào thành tích một năm qua, việc thi đậu là chắc chắn.
 今日は道を間違えないでみせるよ。
 Ngày hôm nay sẽ không lạc đường cho mà xem.
 
-今度の試験には、ぜったい合格してみせるよ。
+今度の試験には、絶対合格してみせるよ。
 Kỳ thi lần này nhất định sẽ đậu cho mà xem.
 ```
 

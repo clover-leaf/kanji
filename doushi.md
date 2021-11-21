@@ -57,28 +57,46 @@
 ## <span class='kanji-title'>囲む&emsp;かこ・む「VI」
 1. <span class='kanji-mean'> Bao quanh
 
-## <span class='kanji-title'>加工代:&emsp;「」
+## <span class='kanji-title'>採る&emsp;と・る「THÁI」
+1. <span class='kanji-mean'>Hái
+1. <span class='kanji-mean'>Tuyển dụng
 
-## <span class='kanji-title'>採る&emsp;と・る「」
-## <span class='kanji-title'> 携わる &emsp; たずさ・わる「」
+## <span class='kanji-title'> 携わる＝従事する&emsp;たずさ・わる＝じゅうじする「HUỀ」
+1. <span class='kanji-mean'>Tham gia
 
 ## <span class='kanji-title'>絞る&emsp;しぼ・る「GIẢO」
 1. <span class='kanji-mean'> Vắt
 1. <span class='kanji-mean'> Thu hẹp
 
-## <span class='kanji-title'>削る&emsp;けず・る「」
+## <span class='kanji-title'>削る&emsp;けず・る「TƯỚC」
+1. <span class='kanji-mean'>Chuốt
+1. <span class='kanji-mean'>Cắt giảm
 
-## <span class='kanji-title'>探る&emsp;さぐ・す「」
+## <span class='kanji-title'>刻む&emsp;「KHẮC」
+1. <span class='kanji-mean'>Cắt, thái
+1. <span class='kanji-mean'>Khắc
+1. <span class='kanji-mean'>Ghi lại (dấu ấn thời gian / cảm xúc)
 
-## <span class='kanji-title'>凍る&emsp;こお・る「」
+## <span class='kanji-title'>探る&emsp;さぐ・す「THAM」
+1. <span class='kanji-mean'>Dựa theo xúc giác để tìm những thứ mà mắt không thấy
+1. <span class='kanji-mean'>Thăm dò cảm giác, suy nghĩ của đối phương
+1. <span class='kanji-mean'>Quan sát, điều tra
 
-## <span class='kanji-title'> 結ぶ&emsp;むす・ぶ「」
+## <span class='kanji-title'>凍る&emsp;こお・る「ĐỐNG」
+1. <span class='kanji-mean'>Đóng băng
 
-## <span class='kanji-title'>冷ます&emsp;さ・ます「」
+## <span class='kanji-title'> 結ぶ&emsp;むす・ぶ「KẾT」
+1. <span class='kanji-mean'>Kí kết hợp đồng
+1. <span class='kanji-mean'>Ràng buộc
 
-## <span class='kanji-title'>冷やす&emsp;ひ・やす「」
+## <span class='kanji-title'>冷ます&emsp;さ・ます「LÃNH」
+1. <span class='kanji-mean'>Làm nguội
 
-## <span class='kanji-title'>救う&emsp;すく・う「」
+## <span class='kanji-title'>冷やす&emsp;ひ・やす「LÃNH」
+1. <span class='kanji-mean'>Làm lạnh
+
+## <span class='kanji-title'>救う&emsp;すく・う「CỨU」
+1. <span class='kanji-mean'>Cứu 
 
 ## <span class='kanji-title'>譲る&emsp;ゆず・る「」
 1. <span class='kanji-mean'>Nhượng lại
@@ -87,7 +105,25 @@
 1. <span class='kanji-mean'>Mong muốn
 1. <span class='kanji-mean'>Yêu cầu đối phương
 1. <span class='kanji-mean'>Tìm kiếm để có được
-1. <span class='kanji-mean'>Mua
+
+## <span class='kanji-title'>仰ぐ&emsp;あお・ぐ「NGƯỠNG」
+1. <span class='kanji-mean'>Ngước nhìn
+1. <span class='kanji-mean'>Ngưỡng mộ
+1. <span class='kanji-mean'>Thỉnh cầu chỉ đạo
+
+## <span class='kanji-title'>薄れる&emsp;うす・れる「BẠC」
+1. <span class='kanji-mean'>Nhạt, mỏng
+
+## <span class='kanji-title'>設ける&emsp;設ける「THIẾT」
+1. <span class='kanji-mean'>Thiết lập
+
+## <span class='kanji-title'>儲ける&emsp;もうける「TRỮ」
+1. <span class='kanji-mean'>Kiểm tiền
+1. <span class='kanji-mean'>Có con
+
+## <span class='kanji-title'>稼ぐ&emsp;かせぐ「GÍA」
+1. <span class='kanji-mean'>Câu giờ
+1. <span class='kanji-mean'>Kiếm được lợi nhuận 
 
 
 
