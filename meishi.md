@@ -66,8 +66,53 @@
 ## <span class='kanji-title'>口癖&emsp;くちぐせ
 1. <span class='kanji-mean'>Câu cửa miệng
 
+## <span class='kanji-title'>肌&emsp;はだ
+```
+1.Da người
+```
 
+## <span class='kanji-title'>被覆&emsp;ひふ
+```
+1.Da
+```
 
+## <span class='kanji-title'>皮&emsp;かわ
+```
+1.Vỏ trái cây
+```
 
+## <span class='kanji-title'>硬貨&emsp;こうか
+```
+1.Đồng xu
+```
 
+## <span class='kanji-title'>著者&emsp;ちょしゃ
+```
+1.Tác giả
+```
+
+## <span class='kanji-title'>体操&emsp;たいそう
+```
+1.Thể thao
+```
+
+## <span class='kanji-title'>傾向&emsp;けいこう
+```
+1.Khuynh hướng
+```
+
+## <span class='kanji-title'>承知&emsp;しょうち
+```
+1.Hiểu rõ
+```
+
+## <span class='kanji-title'>承認&emsp;しょうにん
+```
+1.Thừa nhận, đồng ý
+```
+
+## 測量&emsp;そくりょう
+```
+1.Đo lường
+```
 
