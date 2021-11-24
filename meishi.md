@@ -26,45 +26,48 @@
 ## <span class='kanji-title'> 密閉&emsp;みっぺい
 
 ## <span class='kanji-title'> 垂直&emsp;すいちょく
-1. <span class='kanji-mean'> Vuông góc
+1.  Vuông góc
 
 ## <span class='kanji-title'>討論&emsp;とうろん
-1. <span class='kanji-mean'>Thảo luận
+1. Thảo luận
 
 ## <span class='kanji-title'>好調&emsp;こうちょう
-1. <span class='kanji-mean'>Thuận lợi
+1. Thuận lợi
 
 ## <span class='kanji-title'>永久&emsp;えいきゅう
-1. <span class='kanji-mean'>Vĩnh cửu
+1. Vĩnh cửu
 
 ## <span class='kanji-title'>永遠&emsp;えいえん
-1. <span class='kanji-mean'> Vĩnh viễn 
+1.  Vĩnh viễn 
 
 ## <span class='kanji-title'>保存&emsp;ほぞん
-1. <span class='kanji-mean'>Bảo tồn
+1. Bảo tồn
 
 ## <span class='kanji-title'>確保&emsp;かくほ
-1. <span class='kanji-mean'> Duy trì
+1.  Duy trì
 
 ## <span class='kanji-title'>制作&emsp;せいさく
-1. <span class='kanji-mean'> Chế tác
+1.  Chế tác
 
 ## <span class='kanji-title'>汚染＝公害&emsp;おせん＝こうがい
-1. <span class='kanji-mean'>Ô nhiễm 
+1. Ô nhiễm 
 
 ## <span class='kanji-title'>茶色&emsp;ちゃいろ
-1. <span class='kanji-mean'>Màu nâu
+1. Màu nâu
 
 ## <span class='kanji-title'>豊富&emsp;ほうふ
-1. <span class='kanji-mean'>Phong phú
+1. Phong phú
 
 ## <span class='kanji-title'>一応&emsp;いちおう
-1. <span class='kanji-mean'>Để chắc chắn, đề phòng
-1. <span class='kanji-mean'>Tạm thời
-1. <span class='kanji-mean'>Tàm tạm
+```
+1.Để chắc chắn, đề phòng
+2.Tạm thời
+3.Tàm tạm
+```
 
 ## <span class='kanji-title'>口癖&emsp;くちぐせ
-1. <span class='kanji-mean'>Câu cửa miệng
+
+1.Câu cửa miệng
 
 ## <span class='kanji-title'>肌&emsp;はだ
 ```
@@ -114,5 +117,10 @@
 ## 測量&emsp;そくりょう
 ```
 1.Đo lường
+```
+
+## <span class='kanji-title'>領収書&emsp;りょうしゅうしょ
+```
+Hóa đơn
 ```
 
