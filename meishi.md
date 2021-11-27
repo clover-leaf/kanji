@@ -1,126 +1,250 @@
-## <span class='kanji-title'>率直&emsp;そっちょく
+## 率直&emsp;そっちょく
+```
+Trung thực
 
-## <span class='kanji-title'>深刻&emsp;しんこく
+類語：正直
+```
 
-## <span class='kanji-title'> 昇進&emsp;しょうしん
+## 深刻&emsp;しんこく
+```
+Nghiêm trọng
+```
 
-## <span class='kanji-title'> 背景&emsp;はいけい
+## 昇進&emsp;しょうしん
+```
+Thăng chức
+```
 
-## <span class='kanji-title'> 勘違い&emsp;かんちがい
+## 背景&emsp;はいけい
+```
+1.Bối cảnh
+2.Hậu thuẫn
+```
 
-1. <span class='kanji-mean'> Misunderstanding - inadvertent unserious misunderstanding 
+##  勘違い&emsp;かんちがい
+```
+Hiểu nhầm - không quan trọng
 
-> <span class='kanji-usage'> 今日は土曜日だと勘違いしていた  
+今日は土曜日だと勘違いしていた  
+```
 
-## <span class='kanji-title'> 誤解 &emsp; ごかい
-1. <span class='kanji-mean'> Misunderstanding - serious and negative misunderstanding
-> <span class='kanji-usage'> 彼女に友達と一緒にいるところを見られて、浮気していると誤解された  
+##  誤解 &emsp; ごかい
+```
+Hiểu nhầm - quan trọng 
 
-## <span class='kanji-title'> 間違い &emsp; まちがい
-1. <span class='kanji-mean'> Mistake - does not necessarily mean that there is an incorrect understanding, as one can make mistakes even if he/she understands the procedures/circumstances correctly. 
+彼女に友達と一緒にいるところを見られて、浮気していると誤解された  
+```
 
-## <span class='kanji-title'> 使命 &emsp;しめい
+## 間違い &emsp; まちがい
+```
+Hiểu nhầm - không nhất thiết là hiểu sai vì có thể phạm sai lầm dù hiểu đúng quy trình.
+```
 
-## <span class='kanji-title'> 集約 &emsp;しゅうやく
+## 使命 &emsp;しめい
+```
+Nhiệm vụ, sứ mạng
+```
 
-## <span class='kanji-title'> 密閉&emsp;みっぺい
+## 集約 &emsp;しゅうやく
+```
+Thống nhất (ý kiến)
+```
 
-## <span class='kanji-title'> 垂直&emsp;すいちょく
-1.  Vuông góc
+## 密閉&emsp;みっぺい
+```
+Kín hơi
+```
 
-## <span class='kanji-title'>討論&emsp;とうろん
-1. Thảo luận
+## 討論&emsp;とうろん
+```
+Thảo luận
+```
 
-## <span class='kanji-title'>好調&emsp;こうちょう
-1. Thuận lợi
+##  垂直&emsp;すいちょく
+```
+Vuông góc
+```
 
-## <span class='kanji-title'>永久&emsp;えいきゅう
-1. Vĩnh cửu
+## 討論&emsp;とうろん
+```
+Thảo luận
+```
 
-## <span class='kanji-title'>永遠&emsp;えいえん
-1.  Vĩnh viễn 
+## 好調&emsp;こうちょう
+```
+Thuận lợi
+```
 
-## <span class='kanji-title'>保存&emsp;ほぞん
-1. Bảo tồn
+## 永久&emsp;えいきゅう
+```
+Vĩnh cửu
+```
 
-## <span class='kanji-title'>確保&emsp;かくほ
-1.  Duy trì
+## 永遠&emsp;えいえん
+```
+Vĩnh viễn 
+```
 
-## <span class='kanji-title'>制作&emsp;せいさく
-1.  Chế tác
+## 保存&emsp;ほぞん
+```
+Bảo tồn
+```
 
-## <span class='kanji-title'>汚染＝公害&emsp;おせん＝こうがい
-1. Ô nhiễm 
+## 確保&emsp;かくほ
+```
+Duy trì
+```
 
-## <span class='kanji-title'>茶色&emsp;ちゃいろ
-1. Màu nâu
+## 制作&emsp;せいさく
+```
+Chế tác
+```
 
-## <span class='kanji-title'>豊富&emsp;ほうふ
-1. Phong phú
+## 製造&emsp;せいぞう
+```
+Sản xuất
+```
 
-## <span class='kanji-title'>一応&emsp;いちおう
+## 汚染＝公害&emsp;おせん＝こうがい
+```
+Ô nhiễm 
+```
+
+## 茶色&emsp;ちゃいろ
+```
+Màu nâu
+```
+
+## 豊富&emsp;ほうふ
+```
+Phong phú
+ ```
+
+## 一応&emsp;いちおう
 ```
 1.Để chắc chắn, đề phòng
 2.Tạm thời
 3.Tàm tạm
 ```
 
-## <span class='kanji-title'>口癖&emsp;くちぐせ
-
-1.Câu cửa miệng
-
-## <span class='kanji-title'>肌&emsp;はだ
+## 口癖&emsp;くちぐせ
 ```
-1.Da người
+Câu cửa miệng
 ```
 
-## <span class='kanji-title'>被覆&emsp;ひふ
+## 肌&emsp;はだ
 ```
-1.Da
-```
-
-## <span class='kanji-title'>皮&emsp;かわ
-```
-1.Vỏ trái cây
+Da người
 ```
 
-## <span class='kanji-title'>硬貨&emsp;こうか
+## 被覆&emsp;ひふ
 ```
-1.Đồng xu
-```
-
-## <span class='kanji-title'>著者&emsp;ちょしゃ
-```
-1.Tác giả
+Da
 ```
 
-## <span class='kanji-title'>体操&emsp;たいそう
+## 皮&emsp;かわ
 ```
-1.Thể thao
-```
-
-## <span class='kanji-title'>傾向&emsp;けいこう
-```
-1.Khuynh hướng
+Vỏ trái cây
 ```
 
-## <span class='kanji-title'>承知&emsp;しょうち
+## 硬貨&emsp;こうか
 ```
-1.Hiểu rõ
+Đồng xu
 ```
 
-## <span class='kanji-title'>承認&emsp;しょうにん
+## 著者&emsp;ちょしゃ
 ```
-1.Thừa nhận, đồng ý
+Tác giả
+```
+
+## 体操&emsp;たいそう
+```
+Thể thao
+```
+
+## 傾向&emsp;けいこう
+```
+Khuynh hướng
+```
+
+## 承知&emsp;しょうち
+```
+Hiểu rõ
+```
+
+## 承認&emsp;しょうにん
+```
+Thừa nhận, đồng ý
 ```
 
 ## 測量&emsp;そくりょう
 ```
-1.Đo lường
+Đo lường
 ```
 
-## <span class='kanji-title'>領収書&emsp;りょうしゅうしょ
+## 領収書&emsp;りょうしゅうしょ
 ```
 Hóa đơn
+```
+
+## 極端&emsp;きょくたん
+```
+Cực kỳ
+```
+
+## 様子&emsp;ようす
+```
+Tình trạng
+```
+
+## 容姿&emsp;ようし
+```
+Nhan sắc
+```
+
+## 貿易&emsp;ぼうえき
+```
+1.Giao dịch
+```
+
+## 電車賃&emsp;でんしゃちん
+```
+1.Vé tàu điện
+```
+
+## 改訂&emsp;かいてい
+```
+1.Chỉnh sửa (luật lệ, hệ thống)
+```
+
+## 訂正&emsp;ていせい
+```
+1.Chỉnh sửa (văn bản)
+```
+
+## 一斉に&emsp;いっせいに
+```
+1.Đồng loạt
+```
+
+## 用心&emsp;ようじん
+```
+1.Cẩn trọng
+```
+
+## 慎重&emsp;しんちょう
+```
+1.Thận trọng
+```
+
+## 遠慮&emsp;えんりょ
+```
+1.Ngại ngùng
+2.Hạn chế
+```
+
+## 火傷&emsp;やけど
+```
+1.Bị phỏng
 ```
 
