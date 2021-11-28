@@ -248,3 +248,18 @@ Nhan sắc
 1.Thâm nhập
 ```
 
+## 漁師&emsp;りょうし
+```
+1.Ngư dân
+```
+
+## 灯油代&emsp;とうゆだい
+```
+1.Phí dầu hỏa
+```
+
+## 甘党&emsp;あまとう
+```
+1.Người thích ăn mồi hơn uống rượu
+```
+
