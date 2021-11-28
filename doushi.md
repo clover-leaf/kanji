@@ -286,3 +286,47 @@
 関係：掲示板
 ```
 
+## 起こす&emsp;お・こす「KHỞI」
+```
+1.Gây ra
+2.Đánh thức
+```
+
+## 盗む&emsp;ぬす・む「ĐẠO」
+```
+1.Đánh cắp
+```
+
+## 支える&emsp;ささ・える「CHI」
+```
+1.Hỗ trợ
+```
+
+## 叶う&emsp;かな・う「DIỆP」
+```
+1.Trở thành hiện thực
+
+類語：実現する
+```
+
+## 転ぶ&emsp;ころ・ぶ「CHUYỂN」
+```
+1.Vấp ngã
+```
+
+## 運ぶ&emsp;はこ・ぶ「VẬN」
+```
+1.Khiêng
+```
+
+## 外れる&emsp;はず・れる「NGOẠI」
+```
+1.Tách ra, chệch ra
+```
+
+## 舞う&emsp;ま・う「VŨ」
+```
+1.Cuộn (Cánh hoa cuộn trong gió)
+2.Nhảy, múa
+```
+
