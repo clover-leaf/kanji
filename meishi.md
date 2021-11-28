@@ -55,11 +55,6 @@ Thống nhất (ý kiến)
 Kín hơi
 ```
 
-## 討論&emsp;とうろん
-```
-Thảo luận
-```
-
 ##  垂直&emsp;すいちょく
 ```
 Vuông góc
@@ -246,5 +241,10 @@ Nhan sắc
 ## 火傷&emsp;やけど
 ```
 1.Bị phỏng
+```
+
+## 侵入&emsp;しんにゅう
+```
+1.Thâm nhập
 ```
 
