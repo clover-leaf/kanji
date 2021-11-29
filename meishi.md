@@ -297,3 +297,79 @@ Nhan sắc
 1.Cần phải học
 ```
 
+## 手当&emsp;てあて
+```
+1.Trợ cấp
+2.Sơ cứu (vết thương ngoài da)
+```
+
+## 治療&emsp;ちりょう
+```
+1.Trị liệu (bệnh trong cơ thể)
+```
+
+## 検討&emsp;けんとう
+```
+1.Cân nhắc, xem xét
+```
+
+## 反省&emsp;はんせい
+```
+1.Tự kiểm điểm
+```
+
+## 風呂敷&emsp;ふろしき
+```
+1.Khăn gói đồ (khăn hình vuông)
+```
+
+## 購入&emsp;こうにゅう
+```
+1.Mua vào (nhập hàng)
+```
+
+## 押し問答&emsp;おしもんどう
+```
+1.Tranh cãi, giằng co
+```
+
+## 横ばい&emsp;よこばい
+```
+1.Không tăng không giảm (bằng phẳng)
+```
+
+## 血液&emsp;けつえき
+```
+1.Máu
+```
+
+## 感激&emsp;かんげき
+```
+1.Cảm kích
+```
+
+## 一軒&emsp;いっけん
+```
+1.Căn nhà, tiệm
+```
+
+## 整備&emsp;せいび
+```
+1.Bảo dưỡng
+```
+
+## 机&emsp;つくえ
+```
+1.Bàn
+```
+
+## 首&emsp;くび
+```
+1.Cổ
+```
+
+## 気軽&emsp;きがる
+```
+1.Đừng ngại ngùng
+```
+

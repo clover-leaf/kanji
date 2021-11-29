@@ -103,3 +103,39 @@ Cho rằng, tin rằng
 1.Gây cản trở
 ```
 
+## 身にしみる
+```
+1.Thấm thía, hiểu rõ
+```
+
+## 身につまされる
+```
+1.Đặt mình vào tình huống / vị trí người khác
+```
+
+## 身に覚えのない
+```
+1.Có ký ức đã tự mình làm việc gì đó
+```
+
+## 押し切る （おしきる）
+```
+1.Bỏ ngoài tai
+```
+
+## 取り残す
+```
+1.Tụt lại phía sau
+```
+
+## 口を利く
+```
+1.Nói chuyện
+2.Hòa giải
+```
+
+## ぶら下げる
+```
+1.Treo lủng lẳng
+```
+
