@@ -139,3 +139,39 @@ Cho rằng, tin rằng
 1.Treo lủng lẳng
 ```
 
+## 聞き込む
+```
+1.Nghe để tìm ra thông tin
+```
+
+## 聞き飽きる(あきる）
+```
+1.Nghe phát chán
+```
+
+## 聞き流す
+```
+1.Bỏ ngoài tay
+```
+
+## 耳を傾ける
+```
+1.Nghe chăm chú
+
+類語：耳を澄ます（すます）
+```
+
+## 売り払う
+```
+1.Bán hết sạch
+
+類語：売り切る
+```
+
+## 並 （なみ）
+```
+1.Giống (bổ nghĩa cho từ trước đó)
+2.並の＋～: ～bình thường
+```
+
+
