@@ -494,3 +494,14 @@
 1.Khiển trách
 ```
 
+## 接する&emsp;せっ・する「TIẾP」
+```
+1.Giao tiếp, liên kết
+```
+
+## 磨く&emsp;みが・く「MA」
+```
+1.Mài giũa (kỹ thuật)
+2.Đánh (răng)
+```
+

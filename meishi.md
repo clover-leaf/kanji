@@ -425,6 +425,11 @@ Nhan sắc
 1.Hợp tác
 ```
 
+## 提示&emsp;ていじ
+```
+1.Xuất trình
+```
+
 ## 肩&emsp;かた
 ```
 1.Vai
@@ -498,5 +503,20 @@ Nhan sắc
 ## 係りの人&emsp;かかりのひと
 ```
 1.Người phụ trách
+```
+
+## 事項&emsp;じこう
+```
+1.Điều khoản
+```
+
+## 項目&emsp;こうもく
+```
+1.Hạng mục (trong hợp đồng)
+```
+
+## 考慮&emsp; こうりょ
+```
+1.Xem xét
 ```
 
