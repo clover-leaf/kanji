@@ -12,7 +12,7 @@ Nghiêm trọng
 
 ## 昇進&emsp;しょうしん
 ```
-Thăng chức
+Thănểg chức
 ```
 
 ## 背景&emsp;はいけい
@@ -573,5 +573,67 @@ Nhan sắc
 ## 逮捕&emsp;たいほ
 ```
 1.Bắt giam, tạm giữ
+```
+
+## 限界&emsp;げんかい
+```
+1.Giới hạn (của bản thân, năng lực)
+```
+
+## 制限&emsp;制限
+```
+1.Hạn chế
+```
+
+## 拡充&emsp;かくじゅう
+```
+1.Sự mở rộng
+```
+
+## 声援&emsp;せいえん (THANH VIÊN)
+```
+1.Lời cổ vũ
+```
+
+## 破片&emsp;はへん
+```
+1.Mảnh vỡ
+
+類語：欠片（かけら）
+```
+
+## 弱点&emsp;じゃくてん
+```
+1.Điểm yếu
+```
+
+## 美点&emsp;びてん
+```
+1.Điểm thu hút, điểm mạnh
+```
+
+## 人柄&emsp;ひとがら
+```
+1.Tính cách
+```
+
+## 引用&emsp;いんよう
+```
+1.Trích dẫn
+```
+
+## 展開&emsp;てんかい
+```
+1.Diễn biến (phim, truyện)
+```
+
+## 妥当&emsp;だとう
+```
+1.Hợp lý
+```
+
+## 妥協&emsp;だきょう
+```
+1.Thỏa hiệp
 ```
 
