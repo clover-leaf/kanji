@@ -471,6 +471,11 @@ Nhan sắc
 1.Ho
 ```
 
+## 鼾&emsp;いびき
+```
+1.Ngáy
+```
+
 ## 複写&emsp;ふくしゃ
 ```
 1.Copy
@@ -560,4 +565,13 @@ Nhan sắc
 1.Sự chú ý (của người khác)
 ```
 
+## 配慮&emsp;はいりょ
+```
+1.Quan tâm cho người khác
+```
+
+## 逮捕&emsp;たいほ
+```
+1.Bắt giam, tạm giữ
+```
 

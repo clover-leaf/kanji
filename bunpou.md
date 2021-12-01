@@ -186,3 +186,7 @@ Con nhà tôi sau khi đi chơi mà chưa thấy về.
 ## に先立って（にさきだって）：Trước khi
 
 ## にしたがって：Càng\Càng || Theo như
+
+## ところで：À này (Dùng để chuyển chủ đề)
+
+## ～気味（ぎみ）：Cảm giác
