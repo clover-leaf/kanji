@@ -450,6 +450,12 @@
 使い方：涙をこらえる。
 ```
 
+## 堪る&emsp;たま・る「KHAM」
+```
+1.Chịu đựng
+```
+
+
 ## 堪える&emsp;た・える「KHAM」
 ```
 1.Xứng đáng với
@@ -567,5 +573,42 @@
 1.Bảo vệ
 
 類語：カバー (cách nhớ: cover thêm う)
+```
+
+## 掴む&emsp;つか・む「QUẶC」
+```
+1.Nắm bắt (nội dung)
+```
+
+## 築く&emsp;きず・く「TRÚC」
+```
+1.Xây dựng
+```
+
+## 熟す&emsp;こなす・じゅくす「THỤC」
+```
+1.Hoàn thành
+2.Thực hiện (công việc)
+4.Chia nhỏ
+3.Tiêu hóa (thức ăn)
+```
+
+## 砕く&emsp;くだ・く「TOÁI」
+```
+1.Đập nhỏ
+
+類語：くじく
+```
+
+## 裁く&emsp;さば・く「TÀI」
+```
+1.Đánh giá
+2.Phán xét
+```
+
+## 誤魔化す&emsp;ごまか・す
+```
+1.Đánh trống lảng
+2.Lừa dối
 ```
 

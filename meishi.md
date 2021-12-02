@@ -525,11 +525,6 @@ Nhan sắc
 1.Xem xét
 ```
 
-## 一致&emsp;いっち
-```
-1.Nhất trí
-```
-
 ## 契約&emsp;けいやく
 ```
 1.Khế ước, hợp đồng
@@ -635,5 +630,108 @@ Nhan sắc
 ## 妥協&emsp;だきょう
 ```
 1.Thỏa hiệp
+```
+
+## 残高&emsp;ざんだか
+```
+1.Số dư tài khoản
+```
+
+## 作用&emsp;さよう
+```
+1.Tác dụng
+```
+
+## 作動&emsp;さどう
+```
+1.Hoạt động (của máy móc)
+```
+
+## 容易&emsp;ようい
+```
+1.Đơn giản
+```
+
+## 中毒&emsp;ちゅうどく
+```
+1.Nghiện
+2.Nhiễm độc
+```
+
+## 巧みな技&emsp;たくみなわざ　
+```
+1.Kỹ năng khéo léo
+```
+
+## 巧妙&emsp;こうみょう
+```
+1.Tinh vi
+```
+
+## 見事&emsp;みごと
+```
+1.Tuyệt vời
+2.Hoàn toàn
+```
+
+## 丸暗記&emsp;まるあんき
+```
+1.Thuộc lòng
+```
+
+## 感心&emsp;かんしん
+```
+1.Ngưỡng mộ
+```
+
+## 素直&emsp;すなお
+```
+1.Chân thành
+2.Thật thà
+3.Ngoan ngoãn
+```
+
+## 卑怯&emsp;ひきょう
+```
+1.Hèn nhát
+2.Gian xảo
+```
+
+## でたらめ
+```
+1.Nhảm nhí
+2.Chọn bừa (trắc nghiệm)
+```
+
+## 欲張り&emsp;よくばり
+```
+1.Tham lam
+```
+
+## 建築&emsp;けんちく
+```
+1.Công trình (nhà ở, cao ốc)
+```
+
+## 土木&emsp;どぼく
+```
+1.Công trình (cầu đường)
+```
+
+## 休養&emsp;きゅうよう
+```
+1.Nghỉ dưỡng
+```
+
+## 消化&emsp;しょうか
+```
+1.Tiêu hóa
+2.Tiêu thụ
+3.Hoàn thành
+```
+
+## 砂漠&emsp;さばく
+```
+1.Sa mạc
 ```
 
