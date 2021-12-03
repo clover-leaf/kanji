@@ -96,6 +96,7 @@ Cho rằng, tin rằng
 ## 思い切り
 ```
 1.Thỏa thích
+2.Dứt khoát
 ```
 
 ## 差し支える（さしつかえる）

@@ -5,14 +5,24 @@ Trung thực
 類語：正直（しょうじき）・誠実（せいじつ）・はっきり
 ```
 
+## 真剣&emsp;しんけん
+```
+1.Nghiêm túc
+```
+
 ## 深刻&emsp;しんこく
 ```
 Nghiêm trọng
 ```
 
+## 実践&emsp;じっせん
+```
+1.Thực tiễn
+```
+
 ## 昇進&emsp;しょうしん
 ```
-Thănểg chức
+Thăng chức
 ```
 
 ## 背景&emsp;はいけい
@@ -697,15 +707,27 @@ Nhan sắc
 2.Gian xảo
 ```
 
-## でたらめ
+## 大まか&emsp;おおまか
 ```
-1.Nhảm nhí
-2.Chọn bừa (trắc nghiệm)
+1.Đại khái
+2.Rộng lượng
 ```
 
 ## 欲張り&emsp;よくばり
 ```
 1.Tham lam
+```
+
+## いい加減&emsp;いいかげん
+```
+1.Vô trách nhiệm
+2.Vừa phải thôi （ほどほど）
+```
+
+## でたらめ
+```
+1.Nhảm nhí
+2.Chọn bừa (trắc nghiệm)
 ```
 
 ## 建築&emsp;けんちく
@@ -733,5 +755,56 @@ Nhan sắc
 ## 砂漠&emsp;さばく
 ```
 1.Sa mạc
+```
+
+## 気配&emsp;けはい
+```
+1.Cảm giác
+```
+
+## 曖昧&emsp;あいまい
+```
+1.Mơ hồ
+```
+
+## あやふや&emsp;
+```
+1.Mơ hồ
+```
+
+## 比較&emsp;ひかく
+```
+1.So sánh
+```
+
+## 下降&emsp;かこう
+```
+1.Rơi xuống
+2.Tụt hàng
+```
+
+## 過去&emsp;かこ
+```
+1.Qúa khứ
+```
+
+## 移住&emsp;いじゅう
+```
+1.Di cư
+```
+
+## 発揮&emsp;はっき
+```
+1.Phát huy
+```
+
+## 揮発&emsp;きはつ
+```
+1.Bay hơi
+```
+
+## 指揮&emsp;しき
+```
+1.Chỉ huy
 ```
 
