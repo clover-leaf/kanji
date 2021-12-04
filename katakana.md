@@ -65,4 +65,8 @@
 1.Phàn nàn, khiếu nại (claim)
 ```
 
+## トラブル
+```
+1.Trouble
+```
 

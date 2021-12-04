@@ -140,3 +140,18 @@
 1.Đáng thương, thảm hại (gần giống がっかり)
 ```
 
+## 等しい&emsp;ひとしい
+```
+1.Bằng nhau
+```
+
+## 憎い&emsp;にくい
+```
+1.Ghét (k thể tha thứ, trù gặp điều xấu)
+```
+
+## 憎らしい&emsp;にくらしい
+```
+1.Ghét (còn tích cực)
+```
+

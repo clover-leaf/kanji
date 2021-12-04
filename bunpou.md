@@ -261,6 +261,8 @@ Con nhà tôi sau khi đi chơi mà chưa thấy về.
 
 ## ところで：À này (Dùng để chuyển chủ đề)
 
+## ところに：Đúng vào lúc
+
 ## ようがない：Không biết 
 > V（ーます）＋ようがない
 ```
