@@ -67,7 +67,6 @@ Không thể hiểu được
 1.Quan tâm, để ý (tới người khác)
 ```
 
-
 ## 払い込む
 ```
 Nộp
@@ -97,6 +96,11 @@ Cho rằng, tin rằng
 ```
 1.Thỏa thích
 2.Dứt khoát
+```
+
+## 思い上がる
+```
+1.Kiêu ngạo
 ```
 
 ## 差し支える（さしつかえる）

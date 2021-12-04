@@ -508,12 +508,18 @@ Nhan sắc
 類語：和やか（なごやか）・平穏（へいおん）
 ```
 
-## 無視&emsp;むし
+## 無視&emsp;むし(VÔ THỊ)
 ```
 1.Phớt lờ, xem thường
 
 類語：気にしないで
 ```
+
+## 視野&emsp;しや
+```
+1.Tầm hiểu biết
+```
+
 
 ## 係りの人&emsp;かかりのひと
 ```
@@ -718,6 +724,22 @@ Nhan sắc
 1.Tham lam
 ```
 
+## 惚け&emsp;ぼけ
+```
+1.Lẩm cẩm
+```
+
+## 油断&emsp;ゆだん
+```
+1.Lơ đễnh (Việc mình đang chú ý đến, nhưng mắc lỗi và thất bại)
+```
+
+## 怠慢&emsp;たいまん
+```
+1.Cẩu thả (lơ là trong công việc)
+2.Lười biếng
+```
+
 ## いい加減&emsp;いいかげん
 ```
 1.Vô trách nhiệm
@@ -806,5 +828,25 @@ Nhan sắc
 ## 指揮&emsp;しき
 ```
 1.Chỉ huy
+```
+
+## 勘弁&emsp;かんべん
+```
+1.Tha thứ
+```
+
+## 麻酔&emsp;ますい
+```
+1.Thuốc mê
+```
+
+## 大麻&emsp;たいま
+```
+1.Ma túy
+```
+
+## 余計&emsp;よけい
+```
+1.Dư thừa
 ```
 

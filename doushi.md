@@ -66,6 +66,12 @@
 1.Kiêu ngạo 
 ```
 
+## 自惚れる&emsp;うぬぼれる
+```
+1.Kiêu ngạo
+2.Chảnh
+```
+
 ## 囲む&emsp;かこ・む「VI」
 ```
 1.Bao quanh
@@ -631,5 +637,21 @@
 ```
 1.Nuôi dưỡng
 2.Bồi đắp
+```
+
+## 催す&emsp;もよお・す「THÔI」
+```
+1.Tổ chức
+2.Sắp sửa, có triệu chứng
+```
+
+## 欲する&emsp;ほっする「DỤC」
+```
+1.Thèm muốn
+```
+
+## 富む&emsp;と・む「PHÚ」
+```
+1.Giàu có
 ```
 
