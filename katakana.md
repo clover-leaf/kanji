@@ -60,3 +60,9 @@
 1.Sự cố dẫn tới hậu quả nghiêm trọng
 ```
 
+## クレーム
+```
+1.Phàn nàn, khiếu nại (claim)
+```
+
+

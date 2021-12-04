@@ -267,3 +267,19 @@ Con nhà tôi sau khi đi chơi mà chưa thấy về.
 何と言ったらいいのか、言いようがない。
 ```
 
+## たとえ：Thậm chí
+```
+```
+
+## Vる＋ばかりだ：Cứ / toàn (Đi với V chỉ sự biến đổi: なる・たまる)
+```
+```
+
+## Vて＋ばかり：Toàn là (chỉ việc quanh năm suốt tháng)
+```
+```
+
+##　Vた＋ばかり：Vừa mới
+```
+```
+
